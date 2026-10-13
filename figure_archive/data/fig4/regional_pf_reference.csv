@@ -1,0 +1,22 @@
+metric,region,region_en,perfect_forecast_reduction,unit
+load_shedding,north_china,North China,2106.199274322637,TWh
+load_shedding,east_china,East China,996.5166982359098,TWh
+load_shedding,central_china,Central China,700.3315365214971,TWh
+load_shedding,northwest_china,Northwest China,490.18836733208406,TWh
+load_shedding,southwest_china,Southwest China,91.48980120109863,TWh
+load_shedding,northeast_china,Northeast China,295.92623706041024,TWh
+load_shedding,south_china,South China,1334.5823525903584,TWh
+curtailment,north_china,North China,514.0831023234257,TWh
+curtailment,east_china,East China,78.13453244036273,TWh
+curtailment,central_china,Central China,84.38052596985807,TWh
+curtailment,northwest_china,Northwest China,748.1621747882797,TWh
+curtailment,southwest_china,Southwest China,127.8503002840717,TWh
+curtailment,northeast_china,Northeast China,45.53061078621722,TWh
+curtailment,south_china,South China,37.28577371879285,TWh
+cost,north_china,North China,6086.375092507359,billion CNY
+cost,east_china,East China,2628.9894141321965,billion CNY
+cost,central_china,Central China,1838.4921927141704,billion CNY
+cost,northwest_china,Northwest China,1972.8575592534612,billion CNY
+cost,southwest_china,Southwest China,317.58765208458067,billion CNY
+cost,northeast_china,Northeast China,847.5269330631938,billion CNY
+cost,south_china,South China,3461.9583730397053,billion CNY

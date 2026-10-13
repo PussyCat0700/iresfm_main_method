@@ -1,0 +1,7 @@
+panel,title,x_label,y_label,y_min,y_max
+a,Surrogate data levels,Samples (M),Held-out real-site MSE,0.37,0.49
+b,Transfer from surrogate pretraining,Epoch,Held-out real-site MSE,,
+c,Model size,Samples (M),Held-out real-site MSE,0.37,0.49
+d,Surrogate site count,Samples (M),Held-out real-site MSE,0.37,0.49
+e,Historical context length,Samples (M),Held-out real-site MSE,0.36,0.5
+f,Cumulative weather inputs,Samples (M),Held-out real-site MSE,0.383,0.415

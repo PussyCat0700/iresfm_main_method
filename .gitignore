@@ -2,6 +2,8 @@ __pycache__/
 *.py[cod]
 .venv/
 data/
+!figure_archive/data/
+!figure_archive/data/**
 models/
 heads/
 outputs/

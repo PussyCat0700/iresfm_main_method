@@ -8,6 +8,7 @@ horizons. This repository provides:
 - [`pseudocode/`](pseudocode/): methodological descriptions of data generation,
   architecture and training. The [experiment protocols](pseudocode/experiments.md)
   document surrogate fidelity and Fig. 3 settings.
+- [`figure_archive/`](figure_archive/): plotting data and code for the paper figures.
 
 ## Install
 

@@ -1,0 +1,85 @@
+metric,region,region_en,period,period_years,stacked_value,unit
+load_shedding,north_china,North China,2025–2030,5,20.27420043634545,TWh
+load_shedding,north_china,North China,2030–2040,10,54.67958434101149,TWh
+load_shedding,north_china,North China,2040–2050,10,94.8384748376578,TWh
+load_shedding,north_china,North China,2050–2060,10,54.888180482240465,TWh
+load_shedding,east_china,East China,2025–2030,5,9.236551544408078,TWh
+load_shedding,east_china,East China,2030–2040,10,33.0544284800457,TWh
+load_shedding,east_china,East China,2040–2050,10,79.1781814422118,TWh
+load_shedding,east_china,East China,2050–2060,10,62.562817911658954,TWh
+load_shedding,central_china,Central China,2025–2030,5,4.551241018917607,TWh
+load_shedding,central_china,Central China,2030–2040,10,20.568991580016352,TWh
+load_shedding,central_china,Central China,2040–2050,10,26.409166348692104,TWh
+load_shedding,central_china,Central China,2050–2060,10,11.781411606641411,TWh
+load_shedding,northwest_china,Northwest China,2025–2030,5,6.241819171481756,TWh
+load_shedding,northwest_china,Northwest China,2030–2040,10,5.515390387128293,TWh
+load_shedding,northwest_china,Northwest China,2040–2050,10,0.17127072386312298,TWh
+load_shedding,northwest_china,Northwest China,2050–2060,10,2.283720618898235,TWh
+load_shedding,southwest_china,Southwest China,2025–2030,5,0.9733927751669188,TWh
+load_shedding,southwest_china,Southwest China,2030–2040,10,0.13706739873391313,TWh
+load_shedding,southwest_china,Southwest China,2040–2050,10,4.715960527323697,TWh
+load_shedding,southwest_china,Southwest China,2050–2060,10,8.886403752849949,TWh
+load_shedding,northeast_china,Northeast China,2025–2030,5,3.6215797483541654,TWh
+load_shedding,northeast_china,Northeast China,2030–2040,10,7.050265212767943,TWh
+load_shedding,northeast_china,Northeast China,2040–2050,10,4.532338294690587,TWh
+load_shedding,northeast_china,Northeast China,2050–2060,10,1.037406792976018,TWh
+load_shedding,south_china,South China,2025–2030,5,6.288678499212534,TWh
+load_shedding,south_china,South China,2030–2040,10,17.24791457849387,TWh
+load_shedding,south_china,South China,2040–2050,10,22.639169705914703,TWh
+load_shedding,south_china,South China,2050–2060,10,9.859292202848419,TWh
+curtailment,north_china,North China,2025–2030,5,0.15087739192000776,TWh
+curtailment,north_china,North China,2030–2040,10,1.9906836579351475,TWh
+curtailment,north_china,North China,2040–2050,10,37.37896247692728,TWh
+curtailment,north_china,North China,2050–2060,10,61.33449708307557,TWh
+curtailment,east_china,East China,2025–2030,5,0.0,TWh
+curtailment,east_china,East China,2030–2040,10,0.044532565509769265,TWh
+curtailment,east_china,East China,2040–2050,10,1.4186263678861735,TWh
+curtailment,east_china,East China,2050–2060,10,7.628872994327554,TWh
+curtailment,central_china,Central China,2025–2030,5,3.461656823214726e-09,TWh
+curtailment,central_china,Central China,2030–2040,10,0.12496889893627859,TWh
+curtailment,central_china,Central China,2040–2050,10,1.5072810913159371,TWh
+curtailment,central_china,Central China,2050–2060,10,5.551244998387005,TWh
+curtailment,northwest_china,Northwest China,2025–2030,5,0.07327183475449645,TWh
+curtailment,northwest_china,Northwest China,2030–2040,10,4.391923921383749,TWh
+curtailment,northwest_china,Northwest China,2040–2050,10,57.22306280623264,TWh
+curtailment,northwest_china,Northwest China,2050–2060,10,1.599635761605501,TWh
+curtailment,southwest_china,Southwest China,2025–2030,5,0.4276486361584643,TWh
+curtailment,southwest_china,Southwest China,2030–2040,10,3.404689770525866,TWh
+curtailment,southwest_china,Southwest China,2040–2050,10,12.577180832910267,TWh
+curtailment,southwest_china,Southwest China,2050–2060,10,5.085761638301745,TWh
+curtailment,northeast_china,Northeast China,2025–2030,5,2.0232883750091624e-08,TWh
+curtailment,northeast_china,Northeast China,2030–2040,10,0.004146684435125421,TWh
+curtailment,northeast_china,Northeast China,2040–2050,10,0.14868060184643486,TWh
+curtailment,northeast_china,Northeast China,2050–2060,10,1.257724153239634,TWh
+curtailment,south_china,South China,2025–2030,5,5.507047363022821e-08,TWh
+curtailment,south_china,South China,2030–2040,10,1.914295467118336e-05,TWh
+curtailment,south_china,South China,2040–2050,10,0.020373040403282583,TWh
+curtailment,south_china,South China,2050–2060,10,0.8264780161886056,TWh
+cost,north_china,North China,2025–2030,5,60.556945790626905,billion CNY
+cost,north_china,North China,2030–2040,10,164.83945991845263,billion CNY
+cost,north_china,North China,2040–2050,10,289.52152554876847,billion CNY
+cost,north_china,North China,2050–2060,10,194.6985430523772,billion CNY
+cost,east_china,East China,2025–2030,5,23.186099919345228,billion CNY
+cost,east_china,East China,2030–2040,10,83.13270026588687,billion CNY
+cost,east_china,East China,2040–2050,10,200.26733374291157,billion CNY
+cost,east_china,East China,2050–2060,10,176.48611376536118,billion CNY
+cost,central_china,Central China,2025–2030,5,13.203238341406385,billion CNY
+cost,central_china,Central China,2030–2040,10,51.381025665361996,billion CNY
+cost,central_china,Central China,2040–2050,10,69.72976729425956,billion CNY
+cost,central_china,Central China,2050–2060,10,33.45566232563863,billion CNY
+cost,northwest_china,Northwest China,2025–2030,5,19.98882474889064,billion CNY
+cost,northwest_china,Northwest China,2030–2040,10,25.371594590222745,billion CNY
+cost,northwest_china,Northwest China,2040–2050,10,49.290930884997366,billion CNY
+cost,northwest_china,Northwest China,2050–2060,10,8.609985894114338,billion CNY
+cost,southwest_china,Southwest China,2025–2030,5,3.164863156655434,billion CNY
+cost,southwest_china,Southwest China,2030–2040,10,3.6344623202424935,billion CNY
+cost,southwest_china,Southwest China,2040–2050,10,23.228392652012946,billion CNY
+cost,southwest_china,Southwest China,2050–2060,10,25.08729945623812,billion CNY
+cost,northeast_china,Northeast China,2025–2030,5,9.665239265165315,billion CNY
+cost,northeast_china,Northeast China,2030–2040,10,18.64003368668575,billion CNY
+cost,northeast_china,Northeast China,2040–2050,10,16.814064284296848,billion CNY
+cost,northeast_china,Northeast China,2050–2060,10,4.455369335812749,billion CNY
+cost,south_china,South China,2025–2030,5,18.168623451589376,billion CNY
+cost,south_china,South China,2030–2040,10,47.024582071550284,billion CNY
+cost,south_china,South China,2040–2050,10,62.288939925926925,billion CNY
+cost,south_china,South China,2050–2060,10,26.18892438521497,billion CNY
